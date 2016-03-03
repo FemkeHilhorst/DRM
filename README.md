@@ -1,2 +1,3 @@
 # DRM
-The Dynamic River Model
+The Dynamic River Model (DRM) is a spatial and time dependent river model that simulates fundamental river processes of lowland catchments with shallow groundwater, in the most simplistic way. The DRM is developed at the Hydrology
+and Quantitative Water Management Group of Wageningen University in 2016 to extend the Wageningen Lowland Runoff Simulator (WALRUS) with a river model with similar model framework principles (mass balance conserving, fast, programmed in R, applicable for only lowland area's and freely downloadable). There are no river models that complement WALRUS yet, mainly because these river models are too comprehensive. The computed DRM is in particular valuable during peak discharge events, so for flood risk prevention. The Dynamic River Model is described in detail in the master thesis of Hilhorst, 2016. 
